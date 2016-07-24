@@ -14,3 +14,7 @@ https://help.cloudtrax.com/hc/en-us/articles/202405770-Part-3-Placing-Nodes-and-
 Mesh Network Planner:
 - http://tetcos.com/index.html
 - http://community.arubanetworks.com/t5/Wireless-Access/Outdoor-Mesh-and-Coverage-Planning-Tool/td-p/25400
+
+Mesh Network Simulators:
+- NS2: https://www.youtube.com/watch?v=DbdGzIfQ-CI
+- OMNET++: https://www.researchgate.net/publication/220955607_An_architecture_for_the_implementation_of_Mesh_Networks_in_OMNeT
